@@ -16,7 +16,6 @@ class App extends Component {
       'O bom-senso vale mais do que muito conhecimento.',
       'O riso é a menor distância entre duas pessoas.',
       'Deixe de lado as preocupações e seja feliz.',
-      'Você é uma pessoa maravilhosa e só continua firme que tudo de bom vai vir, meu amigo!',
       'Realize o óbvio, pense no improvável e conquiste o impossível.',
       'Acredite em milagres, mas não dependa deles.',
       'A maior barreira para o sucesso é o medo do fracasso.'
