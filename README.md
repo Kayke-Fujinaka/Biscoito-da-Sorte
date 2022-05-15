@@ -2,7 +2,7 @@
 
 <img src="./src/assets/img.png" alt="Um gif apresentando o projeto">
 
->  Um site que é um biscoito da sorte virtual!
+>  Um site que é um biscoito da sorte virtual!!
 
 Confira a aplicação: https://fortune-coookie.netlify.app
 
